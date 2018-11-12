@@ -1,0 +1,1830 @@
+[
+  {
+    "address": "777 Brockton Avenue, Abington MA 2351",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.0963462,
+      "lng": -70.9686115
+    }
+  },
+  {
+    "address": "30 Memorial Drive, Avon MA 2322",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1210441,
+      "lng": -71.0300905
+    }
+  },
+  {
+    "address": "250 Hartford Avenue, Bellingham MA 2019",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1162105,
+      "lng": -71.46537099999999
+    }
+  },
+  {
+    "address": "700 Oak Street, Brockton MA 2301",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "66-4 Parkhurst Rd, Chelmsford MA 1824",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "591 Memorial Dr, Chicopee MA 1020",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1742868,
+      "lng": -72.5738274
+    }
+  },
+  {
+    "address": "55 Brooksby Village Way, Danvers MA 1923",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.5545669,
+      "lng": -70.96824
+    }
+  },
+  {
+    "address": "137 Teaticket Hwy, East Falmouth MA 2536",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5617778,
+      "lng": -70.5939806
+    }
+  },
+  {
+    "address": "42 Fairhaven Commons Way, Fairhaven MA 2719",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.644992,
+      "lng": -70.8879561
+    }
+  },
+  {
+    "address": "374 William S Canning Blvd, Fall River MA 2721",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "121 Worcester Rd, Framingham MA 1701",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "677 Timpany Blvd, Gardner MA 1440",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "337 Russell St, Hadley MA 1035",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.3543986,
+      "lng": -72.5524104
+    }
+  },
+  {
+    "address": "295 Plymouth Street, Halifax MA 2338",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.9973971,
+      "lng": -70.8463701
+    }
+  },
+  {
+    "address": "1775 Washington St, Hanover MA 2339",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1465432,
+      "lng": -70.8420967
+    }
+  },
+  {
+    "address": "280 Washington Street, Hudson MA 1749",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.3729018,
+      "lng": -71.5588568
+    }
+  },
+  {
+    "address": "20 Soojian Dr, Leicester MA 1524",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.2511096,
+      "lng": -71.9351624
+    }
+  },
+  {
+    "address": "11 Jungle Road, Leominster MA 1453",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.4925091,
+      "lng": -71.7296017
+    }
+  },
+  {
+    "address": "301 Massachusetts Ave, Lunenburg MA 1462",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "780 Lynnway, Lynn MA 1905",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.4487941,
+      "lng": -70.9608099
+    }
+  },
+  {
+    "address": "70 Pleasant Valley Street, Methuen MA 1844",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.74302,
+      "lng": -71.1654606
+    }
+  },
+  {
+    "address": "830 Curran Memorial Hwy, North Adams MA 1247",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.65935289999999,
+      "lng": -73.1088364
+    }
+  },
+  {
+    "address": "1470 S Washington St, North Attleboro MA 2760",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.9331395,
+      "lng": -71.35014939999999
+    }
+  },
+  {
+    "address": "506 State Road, North Dartmouth MA 2747",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.64190749999999,
+      "lng": -71.00791079999999
+    }
+  },
+  {
+    "address": "742 Main Street, North Oxford MA 1537",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1712127,
+      "lng": -71.8789377
+    }
+  },
+  {
+    "address": "72 Main St, North Reading MA 1864",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.5704229,
+      "lng": -71.11272919999999
+    }
+  },
+  {
+    "address": "200 Otis Street, Northborough MA 1532",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.2851509,
+      "lng": -71.6563963
+    }
+  },
+  {
+    "address": "180 North King Street, Northhampton MA 1060",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.3416945,
+      "lng": -72.643759
+    }
+  },
+  {
+    "address": "555 East Main St, Orange MA 1364",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.5886487,
+      "lng": -72.2842989
+    }
+  },
+  {
+    "address": "555 Hubbard Ave-Suite 12, Pittsfield MA 1201",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.4663297,
+      "lng": -73.1977536
+    }
+  },
+  {
+    "address": "300 Colony Place, Plymouth MA 2360",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.9554751,
+      "lng": -70.718142
+    }
+  },
+  {
+    "address": "301 Falls Blvd, Quincy MA 2169",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.2361444,
+      "lng": -70.9864432
+    }
+  },
+  {
+    "address": "36 Paramount Drive, Raynham MA 2767",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.904485,
+      "lng": -71.0323192
+    }
+  },
+  {
+    "address": "450 Highland Ave, Salem MA 1970",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.4944219,
+      "lng": -70.93557930000001
+    }
+  },
+  {
+    "address": "1180 Fall River Avenue, Seekonk MA 2771",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.7953632,
+      "lng": -71.3254984
+    }
+  },
+  {
+    "address": "1105 Boston Road, Springfield MA 1119",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1360067,
+      "lng": -72.5069872
+    }
+  },
+  {
+    "address": "100 Charlton Road, Sturbridge MA 1566",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1257659,
+      "lng": -72.05912289999999
+    }
+  },
+  {
+    "address": "262 Swansea Mall Dr, Swansea MA 2777",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.7554762,
+      "lng": -71.2179992
+    }
+  },
+  {
+    "address": "333 Main Street, Tewksbury MA 1876",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.6231587,
+      "lng": -71.2686442
+    }
+  },
+  {
+    "address": "550 Providence Hwy, Walpole MA 2081",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1418218,
+      "lng": -71.2144721
+    }
+  },
+  {
+    "address": "352 Palmer Road, Ware MA 1082",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.2376571,
+      "lng": -72.2787543
+    }
+  },
+  {
+    "address": "3005 Cranberry Hwy Rt 6 28, Wareham MA 2538",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.7575707,
+      "lng": -70.6633411
+    }
+  },
+  {
+    "address": "250 Rt 59, Airmont NY 10901",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.1097554,
+      "lng": -74.0478979
+    }
+  },
+  {
+    "address": "141 Washington Ave Extension, Albany NY 12205",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.6953088,
+      "lng": -73.8461142
+    }
+  },
+  {
+    "address": "13858 Rt 31 W, Albion NY 14411",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.2341532,
+      "lng": -78.2258973
+    }
+  },
+  {
+    "address": "2055 Niagara Falls Blvd, Amherst NY 14228",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.00861889999999,
+      "lng": -78.8186202
+    }
+  },
+  {
+    "address": "101 Sanford Farm Shpg Center, Amsterdam NY 12010",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.9643352,
+      "lng": -74.1836972
+    }
+  },
+  {
+    "address": "297 Grant Avenue, Auburn NY 13021",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.9540806,
+      "lng": -76.5481875
+    }
+  },
+  {
+    "address": "4133 Veterans Memorial Drive, Batavia NY 14020",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.01358070000001,
+      "lng": -78.20791489999999
+    }
+  },
+  {
+    "address": "6265 Brockport Spencerport Rd, Brockport NY 14420",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.1967656,
+      "lng": -77.9278119
+    }
+  },
+  {
+    "address": "5399 W Genesse St, Camillus NY 13031",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.0383576,
+      "lng": -76.27301600000001
+    }
+  },
+  {
+    "address": "3191 County rd 10, Canandaigua NY 14424",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.8757365,
+      "lng": -77.24310129999999
+    }
+  },
+  {
+    "address": "30 Catskill, Catskill NY 12414",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.2124896,
+      "lng": -73.88288630000001
+    }
+  },
+  {
+    "address": "161 Centereach Mall, Centereach NY 11720",
+    "status": "FOUND",
+    "location": {
+      "lat": 40.8630257,
+      "lng": -73.0812935
+    }
+  },
+  {
+    "address": "3018 East Ave, Central Square NY 13036",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.2913212,
+      "lng": -76.1273069
+    }
+  },
+  {
+    "address": "100 Thruway Plaza, Cheektowaga NY 14225",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.9049166,
+      "lng": -78.7782577
+    }
+  },
+  {
+    "address": "8064 Brewerton Rd, Cicero NY 13039",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.1611235,
+      "lng": -76.1175252
+    }
+  },
+  {
+    "address": "5033 Transit Road, Clarence NY 14031",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.983052,
+      "lng": -78.693939
+    }
+  },
+  {
+    "address": "3949 Route 31, Clay NY 13041",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.1881699,
+      "lng": -76.2401941
+    }
+  },
+  {
+    "address": "139 Merchant Place, Cobleskill NY 12043",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.6825208,
+      "lng": -74.4553104
+    }
+  },
+  {
+    "address": "85 Crooked Hill Road, Commack NY 11725",
+    "status": "FOUND",
+    "location": {
+      "lat": 40.8118862,
+      "lng": -73.2894357
+    }
+  },
+  {
+    "address": "872 Route 13, Cortlandville NY 13045",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.573282,
+      "lng": -76.214716
+    }
+  },
+  {
+    "address": "279 Troy Road, East Greenbush NY 12061",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.6417029,
+      "lng": -73.7014453
+    }
+  },
+  {
+    "address": "2465 Hempstead Turnpike, East Meadow NY 11554",
+    "status": "FOUND",
+    "location": {
+      "lat": 40.7268723,
+      "lng": -73.5437687
+    }
+  },
+  {
+    "address": "6438 Basile Rowe, East Syracuse NY 13057",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.0611603,
+      "lng": -76.06086979999999
+    }
+  },
+  {
+    "address": "25737 US Rt 11, Evans Mills NY 13637",
+    "status": "FOUND",
+    "location": {
+      "lat": 44.0427782,
+      "lng": -75.8387443
+    }
+  },
+  {
+    "address": "901 Route 110, Farmingdale NY 11735",
+    "status": "FOUND",
+    "location": {
+      "lat": 40.7267068,
+      "lng": -73.42326969999999
+    }
+  },
+  {
+    "address": "2400 Route 9, Fishkill NY 12524",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5307731,
+      "lng": -73.8971686
+    }
+  },
+  {
+    "address": "10401 Bennett Road, Fredonia NY 14063",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.4537869,
+      "lng": -79.3132826
+    }
+  },
+  {
+    "address": "1818 State Route 3, Fulton NY 13069",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.3236002,
+      "lng": -76.44874879999999
+    }
+  },
+  {
+    "address": "4300 Lakeville Road, Geneseo NY 14454",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.7978414,
+      "lng": -77.78629649999999
+    }
+  },
+  {
+    "address": "990 Route 5 20, Geneva NY 14456",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.8598191,
+      "lng": -77.02151309999999
+    }
+  },
+  {
+    "address": "311 RT 9W, Glenmont NY 12077",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.609107,
+      "lng": -73.79307639999999
+    }
+  },
+  {
+    "address": "200 Dutch Meadows Ln, Glenville NY 12302",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.8417369,
+      "lng": -73.944432
+    }
+  },
+  {
+    "address": "100 Elm Ridge Center Dr, Greece NY 14626",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.2146781,
+      "lng": -77.7242837
+    }
+  },
+  {
+    "address": "1549 Rt 9, Halfmoon NY 12065",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.8467823,
+      "lng": -73.74796959999999
+    }
+  },
+  {
+    "address": "5360 Southwestern Blvd, Hamburg NY 14075",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.74348579999999,
+      "lng": -78.8724144
+    }
+  },
+  {
+    "address": "103 North Caroline St, Herkimer NY 13350",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.0225661,
+      "lng": -74.9937958
+    }
+  },
+  {
+    "address": "1000 State Route 36, Hornell NY 14843",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.3482668,
+      "lng": -77.6698753
+    }
+  },
+  {
+    "address": "1400 County Rd 64, Horseheads NY 14845",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1567912,
+      "lng": -76.8542824
+    }
+  },
+  {
+    "address": "135 Fairgrounds Memorial Pkwy, Ithaca NY 14850",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.429223,
+      "lng": -76.5138557
+    }
+  },
+  {
+    "address": "2 Gannett Dr, Johnson City NY 13790",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.1153086,
+      "lng": -75.9468196
+    }
+  },
+  {
+    "address": "233 5th Ave Ext, Johnstown NY 12095",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.0615586,
+      "lng": -74.3222899
+    }
+  },
+  {
+    "address": "601 Frank Stottile Blvd, Kingston NY 12401",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.9726126,
+      "lng": -73.98512629999999
+    }
+  },
+  {
+    "address": "350 E Fairmount Ave, Lakewood NY 14750",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.0977371,
+      "lng": -79.2999542
+    }
+  },
+  {
+    "address": "4975 Transit Rd, Lancaster NY 14086",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.8825001,
+      "lng": -78.6961476
+    }
+  },
+  {
+    "address": "579 Troy-Schenectady Road, Latham NY 12110",
+    "status": "FOUND",
+    "location": {
+      "lat": 42.7556258,
+      "lng": -73.76084019999999
+    }
+  },
+  {
+    "address": "5783 So Transit Road, Lockport NY 14094",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.14393,
+      "lng": -78.69358460000001
+    }
+  },
+  {
+    "address": "7155 State Rt 12 S, Lowville NY 13367",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.7735689,
+      "lng": -75.4779841
+    }
+  },
+  {
+    "address": "425 Route 31, Macedon NY 14502",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.0690835,
+      "lng": -77.29181439999999
+    }
+  },
+  {
+    "address": "3222 State Rt 11, Malone NY 12953",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "200 Sunrise Mall, Massapequa NY 11758",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "43 Stephenville St, Massena NY 13662",
+    "status": "FOUND",
+    "location": {
+      "lat": 44.9223101,
+      "lng": -74.8778285
+    }
+  },
+  {
+    "address": "750 Middle Country Road, Middle Island NY 11953",
+    "status": "FOUND",
+    "location": {
+      "lat": 40.8801966,
+      "lng": -72.9469794
+    }
+  },
+  {
+    "address": "470 Route 211 East, Middletown NY 10940",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.4549974,
+      "lng": -74.3787239
+    }
+  },
+  {
+    "address": "3133 E Main St, Mohegan Lake NY 10547",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3106003,
+      "lng": -73.8667639
+    }
+  },
+  {
+    "address": "288 Larkin, Monroe NY 10950",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3167559,
+      "lng": -74.148402
+    }
+  },
+  {
+    "address": "41 Anawana Lake Road, Monticello NY 12701",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.66667289999999,
+      "lng": -74.6799298
+    }
+  },
+  {
+    "address": "4765 Commercial Drive, New Hartford NY 13413",
+    "status": "FOUND",
+    "location": {
+      "lat": 43.09525439999999,
+      "lng": -75.3124285
+    }
+  },
+  {
+    "address": "1201 Rt 300, Newburgh NY 12550",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5521116,
+      "lng": -74.0638523
+    }
+  },
+  {
+    "address": "255 W Main St, Avon CT 6001",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.8111965,
+      "lng": -72.8530026
+    }
+  },
+  {
+    "address": "120 Commercial Parkway, Branford CT 6405",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2809319,
+      "lng": -72.8308
+    }
+  },
+  {
+    "address": "1400 Farmington Ave, Bristol CT 6010",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.6976238,
+      "lng": -72.8976785
+    }
+  },
+  {
+    "address": "161 Berlin Road, Cromwell CT 6416",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.6072035,
+      "lng": -72.7125969
+    }
+  },
+  {
+    "address": "67 Newton Rd, Danbury CT 6810",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.4071794,
+      "lng": -73.41498419999999
+    }
+  },
+  {
+    "address": "656 New Haven Ave, Derby CT 6418",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3130062,
+      "lng": -73.0520683
+    }
+  },
+  {
+    "address": "69 Prospect Hill Road, East Windsor CT 6088",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.9232556,
+      "lng": -72.6076685
+    }
+  },
+  {
+    "address": "150 Gold Star Hwy, Groton CT 6340",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3697844,
+      "lng": -72.0651487
+    }
+  },
+  {
+    "address": "900 Boston Post Road, Guilford CT 6437",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2872132,
+      "lng": -72.67856069999999
+    }
+  },
+  {
+    "address": "2300 Dixwell Ave, Hamden CT 6514",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3730269,
+      "lng": -72.91843349999999
+    }
+  },
+  {
+    "address": "495 Flatbush Ave, Hartford CT 6106",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.7399421,
+      "lng": -72.7135954
+    }
+  },
+  {
+    "address": "180 River Rd, Lisbon CT 6351",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5833663,
+      "lng": -71.9894052
+    }
+  },
+  {
+    "address": "420 Buckland Hills Dr, Manchester CT 6040",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.8069221,
+      "lng": -72.5384313
+    }
+  },
+  {
+    "address": "1365 Boston Post Road, Milford CT 6460",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2391773,
+      "lng": -73.0342322
+    }
+  },
+  {
+    "address": "1100 New Haven Road, Naugatuck CT 6770",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.4690788,
+      "lng": -73.027761
+    }
+  },
+  {
+    "address": "315 Foxon Blvd, New Haven CT 6513",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3221285,
+      "lng": -72.8774616
+    }
+  },
+  {
+    "address": "164 Danbury Rd, New Milford CT 6776",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5519446,
+      "lng": -73.4197938
+    }
+  },
+  {
+    "address": "3164 Berlin Turnpike, Newington CT 6111",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.66246,
+      "lng": -72.7209015
+    }
+  },
+  {
+    "address": "474 Boston Post Road, North Windham CT 6256",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.7410506,
+      "lng": -72.17419869999999
+    }
+  },
+  {
+    "address": "650 Main Ave, Norwalk CT 6851",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.1591303,
+      "lng": -73.4177914
+    }
+  },
+  {
+    "address": "680 Connecticut Avenue, Norwalk CT 6854",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.096106,
+      "lng": -73.449511
+    }
+  },
+  {
+    "address": "220 Salem Turnpike, Norwich CT 6360",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5046821,
+      "lng": -72.1225613
+    }
+  },
+  {
+    "address": "655 Boston Post Rd, Old Saybrook CT 6475",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2987743,
+      "lng": -72.376543
+    }
+  },
+  {
+    "address": "625 School Street, Putnam CT 6260",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.9233519,
+      "lng": -71.8891874
+    }
+  },
+  {
+    "address": "80 Town Line Rd, Rocky Hill CT 6067",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.6805858,
+      "lng": -72.6568118
+    }
+  },
+  {
+    "address": "465 Bridgeport Avenue, Shelton CT 6484",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2910615,
+      "lng": -73.1130573
+    }
+  },
+  {
+    "address": "235 Queen St, Southington CT 6489",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.6231526,
+      "lng": -72.870483
+    }
+  },
+  {
+    "address": "150 Barnum Avenue Cutoff, Stratford CT 6614",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2014675,
+      "lng": -73.1195311
+    }
+  },
+  {
+    "address": "970 Torringford Street, Torrington CT 6790",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.8184682,
+      "lng": -73.0780048
+    }
+  },
+  {
+    "address": "844 No Colony Road, Wallingford CT 6492",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.4774407,
+      "lng": -72.8114061
+    }
+  },
+  {
+    "address": "910 Wolcott St, Waterbury CT 6705",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.5654859,
+      "lng": -73.0078961
+    }
+  },
+  {
+    "address": "155 Waterford Parkway No, Waterford CT 6385",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.3683998,
+      "lng": -72.160697
+    }
+  },
+  {
+    "address": "515 Sawmill Road, West Haven CT 6516",
+    "status": "FOUND",
+    "location": {
+      "lat": 41.2711483,
+      "lng": -72.97782029999999
+    }
+  },
+  {
+    "address": "2473 Hackworth Road, Adamsville AL 35005",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.5796581,
+      "lng": -86.92431649999999
+    }
+  },
+  {
+    "address": "630 Coonial Promenade Pkwy, Alabaster AL 35007",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.22928050000001,
+      "lng": -86.80300079999999
+    }
+  },
+  {
+    "address": "2643 Hwy 280 West, Alexander City AL 35010",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.934356,
+      "lng": -85.97202229999999
+    }
+  },
+  {
+    "address": "540 West Bypass, Andalusia AL 36420",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.304725,
+      "lng": -86.501071
+    }
+  },
+  {
+    "address": "5560 Mcclellan Blvd, Anniston AL 36206",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.7200297,
+      "lng": -85.8201445
+    }
+  },
+  {
+    "address": "1450 No Brindlee Mtn Pkwy, Arab AL 35016",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.3418981,
+      "lng": -86.49997049999999
+    }
+  },
+  {
+    "address": "1011 US Hwy 72 East, Athens AL 35611",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.788574,
+      "lng": -86.9587885
+    }
+  },
+  {
+    "address": "973 Gilbert Ferry Road Se, Attalla AL 35954",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.9936774,
+      "lng": -86.0934102
+    }
+  },
+  {
+    "address": "1717 South College Street, Auburn AL 36830",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.5707395,
+      "lng": -85.4968099
+    }
+  },
+  {
+    "address": "701 Mcmeans Ave, Bay Minette AL 36507",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.8860401,
+      "lng": -87.79016089999999
+    }
+  },
+  {
+    "address": "750 Academy Drive, Bessemer AL 35022",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.3613017,
+      "lng": -87.0021281
+    }
+  },
+  {
+    "address": "312 Palisades Blvd, Birmingham AL 35209",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.4678804,
+      "lng": -86.821604
+    }
+  },
+  {
+    "address": "1600 Montclair Rd, Birmingham AL 35210",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.5290088,
+      "lng": -86.7200743
+    }
+  },
+  {
+    "address": "5919 Trussville Crossings Pkwy, Birmingham AL 35235",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.6390618,
+      "lng": -86.6291251
+    }
+  },
+  {
+    "address": "9248 Parkway East, Birmingham AL 35206",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.5901883,
+      "lng": -86.7004457
+    }
+  },
+  {
+    "address": "1972 Hwy 431, Boaz AL 35957",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.2150365,
+      "lng": -86.1532368
+    }
+  },
+  {
+    "address": "10675 Hwy 5, Brent AL 35034",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.9641663,
+      "lng": -87.1720479
+    }
+  },
+  {
+    "address": "2041 Douglas Avenue, Brewton AL 36426",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.1393439,
+      "lng": -87.0698326
+    }
+  },
+  {
+    "address": "5100 Hwy 31, Calera AL 35040",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.14740070000001,
+      "lng": -86.7491337
+    }
+  },
+  {
+    "address": "1916 Center Point Rd, Center Point AL 35215",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.6373682,
+      "lng": -86.6844833
+    }
+  },
+  {
+    "address": "1950 W Main St, Centre AL 35960",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.1628289,
+      "lng": -85.7126492
+    }
+  },
+  {
+    "address": "16077 Highway 280, Chelsea AL 35043",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.3478202,
+      "lng": -86.6190613
+    }
+  },
+  {
+    "address": "1415 7Th Street South, Clanton AL 35045",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.8168235,
+      "lng": -86.6092924
+    }
+  },
+  {
+    "address": "626 Olive Street Sw, Cullman AL 35055",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.1492269,
+      "lng": -86.8417989
+    }
+  },
+  {
+    "address": "27520 Hwy 98, Daphne AL 36526",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.6251139,
+      "lng": -87.90436369999999
+    }
+  },
+  {
+    "address": "2800 Spring Avn SW, Decatur AL 35603",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.5565103,
+      "lng": -86.9958752
+    }
+  },
+  {
+    "address": "969 Us Hwy 80 West, Demopolis AL 36732",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.5036868,
+      "lng": -87.8343616
+    }
+  },
+  {
+    "address": "3300 South Oates Street, Dothan AL 36301",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.1789526,
+      "lng": -85.4044898
+    }
+  },
+  {
+    "address": "4310 Montgomery Hwy, Dothan AL 36303",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.2680202,
+      "lng": -85.44126469999999
+    }
+  },
+  {
+    "address": "600 Boll Weevil Circle, Enterprise AL 36330",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.3155627,
+      "lng": -85.82742909999999
+    }
+  },
+  {
+    "address": "3176 South Eufaula Avenue, Eufaula AL 36027",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.8435495,
+      "lng": -85.17106129999999
+    }
+  },
+  {
+    "address": "7100 Aaron Aronov Drive, Fairfield AL 35064",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.4692591,
+      "lng": -86.91817429999999
+    }
+  },
+  {
+    "address": "10040 County Road 48, Fairhope AL 36533",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "3186 Hwy 171 North, Fayette AL 35555",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.7325887,
+      "lng": -87.8102894
+    }
+  },
+  {
+    "address": "3100 Hough Rd, Florence AL 35630",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.8341568,
+      "lng": -87.6251166
+    }
+  },
+  {
+    "address": "2200 South Mckenzie St, Foley AL 36535",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.3824199,
+      "lng": -87.6863106
+    }
+  },
+  {
+    "address": "2001 Glenn Bldv Sw, Fort Payne AL 35968",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.4399919,
+      "lng": -85.7620185
+    }
+  },
+  {
+    "address": "340 East Meighan Blvd, Gadsden AL 35903",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.0127691,
+      "lng": -85.9872204
+    }
+  },
+  {
+    "address": "890 Odum Road, Gardendale AL 35071",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.6471803,
+      "lng": -86.8229535
+    }
+  },
+  {
+    "address": "1608 W Magnolia Ave, Geneva AL 36340",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "501 Willow Lane, Greenville AL 36037",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.8493659,
+      "lng": -86.6472088
+    }
+  },
+  {
+    "address": "170 Fort Morgan Road, Gulf Shores AL 36542",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.2293795,
+      "lng": -88.00811399999999
+    }
+  },
+  {
+    "address": "11697 US Hwy 431, Guntersville AL 35976",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.3039497,
+      "lng": -86.2843999
+    }
+  },
+  {
+    "address": "42417 Hwy 195, Haleyville AL 35565",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.2373899,
+      "lng": -87.5975757
+    }
+  },
+  {
+    "address": "1706 Military Street South, Hamilton AL 35570",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.1196445,
+      "lng": -87.9924214
+    }
+  },
+  {
+    "address": "1201 Hwy 31 NW, Hartselle AL 35640",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.452383,
+      "lng": -86.9488464
+    }
+  },
+  {
+    "address": "209 Lakeshore Parkway, Homewood AL 35209",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.4469659,
+      "lng": -86.82104
+    }
+  },
+  {
+    "address": "2780 John Hawkins Pkwy, Hoover AL 35244",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.3618158,
+      "lng": -86.8248581
+    }
+  },
+  {
+    "address": "5335 Hwy 280 South, Hoover AL 35242",
+    "status": "NOT_FOUND"
+  },
+  {
+    "address": "1007 Red Farmer Drive, Hueytown AL 35023",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.4606277,
+      "lng": -86.968353
+    }
+  },
+  {
+    "address": "2900 S Mem PkwyDrake Ave, Huntsville AL 35801",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.70531800000001,
+      "lng": -86.5831398
+    }
+  },
+  {
+    "address": "11610 Memorial Pkwy South, Huntsville AL 35803",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.6161611,
+      "lng": -86.5705906
+    }
+  },
+  {
+    "address": "2200 Sparkman Drive, Huntsville AL 35810",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.7651939,
+      "lng": -86.5923076
+    }
+  },
+  {
+    "address": "330 Sutton Rd, Huntsville AL 35763",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.6599006,
+      "lng": -86.48825099999999
+    }
+  },
+  {
+    "address": "6140A Univ Drive, Huntsville AL 35806",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.7468335,
+      "lng": -86.67584959999999
+    }
+  },
+  {
+    "address": "4206 N College Ave, Jackson AL 36545",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.559566,
+      "lng": -87.8756883
+    }
+  },
+  {
+    "address": "1625 Pelham South, Jacksonville AL 36265",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.78775,
+      "lng": -85.7620786
+    }
+  },
+  {
+    "address": "1801 Hwy 78 East, Jasper AL 35501",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.8429296,
+      "lng": -87.25442079999999
+    }
+  },
+  {
+    "address": "8551 Whitfield Ave, Leeds AL 35094",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.5621694,
+      "lng": -86.5189736
+    }
+  },
+  {
+    "address": "8650 Madison Blvd, Madison AL 35758",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.6838836,
+      "lng": -86.74116590000001
+    }
+  },
+  {
+    "address": "145 Kelley Blvd, Millbrook AL 36054",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.4940525,
+      "lng": -86.39816290000002
+    }
+  },
+  {
+    "address": "1970 S University Blvd, Mobile AL 36609",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.6495543,
+      "lng": -88.1623489
+    }
+  },
+  {
+    "address": "6350 Cottage Hill Road, Mobile AL 36609",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.6415128,
+      "lng": -88.18923470000001
+    }
+  },
+  {
+    "address": "101 South Beltline Highway, Mobile AL 36606",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.68504,
+      "lng": -88.12735599999999
+    }
+  },
+  {
+    "address": "2500 Dawes Road, Mobile AL 36695",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.6390352,
+      "lng": -88.2463898
+    }
+  },
+  {
+    "address": "5245 Rangeline Service Rd, Mobile AL 36619",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.5935978,
+      "lng": -88.1628328
+    }
+  },
+  {
+    "address": "685 Schillinger Rd, Mobile AL 36695",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.6759132,
+      "lng": -88.2244297
+    }
+  },
+  {
+    "address": "3371 S Alabama Ave, Monroeville AL 36460",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.4805983,
+      "lng": -87.3282674
+    }
+  },
+  {
+    "address": "10710 Chantilly Pkwy, Montgomery AL 36117",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.3546687,
+      "lng": -86.13494949999999
+    }
+  },
+  {
+    "address": "3801 Eastern Blvd, Montgomery AL 36116",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.3258962,
+      "lng": -86.23204659999999
+    }
+  },
+  {
+    "address": "6495 Atlanta Hwy, Montgomery AL 36117",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.385032,
+      "lng": -86.1851159
+    }
+  },
+  {
+    "address": "851 Ann St, Montgomery AL 36107",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.3708254,
+      "lng": -86.26823279999999
+    }
+  },
+  {
+    "address": "15445 Highway 24, Moulton AL 35650",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.4954417,
+      "lng": -87.2769098
+    }
+  },
+  {
+    "address": "517 West Avalon Ave, Muscle Shoals AL 35661",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.744838,
+      "lng": -87.6680631
+    }
+  },
+  {
+    "address": "5710 Mcfarland Blvd, Northport AL 35476",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.2363818,
+      "lng": -87.6152439
+    }
+  },
+  {
+    "address": "2453 2Nd Avenue East, Oneonta AL 35121  205-625-647",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.9707961,
+      "lng": -86.4497315
+    }
+  },
+  {
+    "address": "2900 Pepperrell Pkwy, Opelika AL 36801",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.6379264,
+      "lng": -85.42191969999999
+    }
+  },
+  {
+    "address": "92 Plaza Lane, Oxford AL 36203",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.5990073,
+      "lng": -85.832306
+    }
+  },
+  {
+    "address": "1537 Hwy 231 South, Ozark AL 36360",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.4450338,
+      "lng": -85.6507123
+    }
+  },
+  {
+    "address": "2181 Pelham Pkwy, Pelham AL 35124",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.34080429999999,
+      "lng": -86.7910991
+    }
+  },
+  {
+    "address": "165 Vaughan Ln, Pell City AL 35125",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.6096563,
+      "lng": -86.2771167
+    }
+  },
+  {
+    "address": "3700 Hwy 280-431 N, Phenix City AL 36867",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.4984414,
+      "lng": -85.04146639999999
+    }
+  },
+  {
+    "address": "1903 Cobbs Ford Rd, Prattville AL 36066",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.4629505,
+      "lng": -86.416358
+    }
+  },
+  {
+    "address": "4180 Us Hwy 431, Roanoke AL 36274",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.1638777,
+      "lng": -85.36604779999999
+    }
+  },
+  {
+    "address": "13675 Hwy 43, Russellville AL 35653",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.4938272,
+      "lng": -87.7270578
+    }
+  },
+  {
+    "address": "1095 Industrial Pkwy, Saraland AL 36571",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.7995566,
+      "lng": -88.0969451
+    }
+  },
+  {
+    "address": "24833 Johnt Reidprkw, Scottsboro AL 35768",
+    "status": "FOUND",
+    "location": {
+      "lat": 34.6697152,
+      "lng": -86.0082257
+    }
+  },
+  {
+    "address": "1501 Hwy 14 East, Selma AL 36703",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.4337583,
+      "lng": -87.0128512
+    }
+  },
+  {
+    "address": "7855 Moffett Rd, Semmes AL 36575",
+    "status": "FOUND",
+    "location": {
+      "lat": 30.7619546,
+      "lng": -88.2295457
+    }
+  },
+  {
+    "address": "150 Springville Station Blvd, Springville AL 35146",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.7791451,
+      "lng": -86.4328843
+    }
+  },
+  {
+    "address": "690 Hwy 78, Sumiton AL 35148",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.745376,
+      "lng": -87.0417709
+    }
+  },
+  {
+    "address": "41301 US Hwy 280, Sylacauga AL 35150",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.1760335,
+      "lng": -86.2854302
+    }
+  },
+  {
+    "address": "214 Haynes Street, Talladega AL 35160",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.438442,
+      "lng": -86.08019759999999
+    }
+  },
+  {
+    "address": "1300 Gilmer Ave, Tallassee AL 36078",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.5508583,
+      "lng": -85.9170779
+    }
+  },
+  {
+    "address": "34301 Hwy 43, Thomasville AL 36784",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.9395496,
+      "lng": -87.73957639999999
+    }
+  },
+  {
+    "address": "1420 Us 231 South, Troy AL 36081",
+    "status": "FOUND",
+    "location": {
+      "lat": 31.7807101,
+      "lng": -85.93907779999999
+    }
+  },
+  {
+    "address": "1501 Skyland Blvd E, Tuscaloosa AL 35405",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.1651751,
+      "lng": -87.5187189
+    }
+  },
+  {
+    "address": "3501 20th Av, Valley AL 36854",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.8351551,
+      "lng": -85.1788784
+    }
+  },
+  {
+    "address": "1300 Montgomery Highway, Vestavia Hills AL 35216",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.4286397,
+      "lng": -86.7918224
+    }
+  },
+  {
+    "address": "4538 Us Hwy 231, Wetumpka AL 36092",
+    "status": "FOUND",
+    "location": {
+      "lat": 32.5079952,
+      "lng": -86.2123159
+    }
+  },
+  {
+    "address": "2575 Us Hwy 43, Winfield AL 35594",
+    "status": "FOUND",
+    "location": {
+      "lat": 33.9350701,
+      "lng": -87.84070109999999
+    }
+  }
+]
